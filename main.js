@@ -53,6 +53,7 @@ function reglas(filas, columnas) {
       } else if (celula.vida && tablero.cantVecinosVivos(i, j) === 3) {
         celula, (vida = true);
         tablero[i][j] = ".";
+        //sds
       }
     }
   }
