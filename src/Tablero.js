@@ -52,6 +52,7 @@ class Tablero {
             celula.vecinos++;
           }
         }
+
         if (i - 1 >= 0) {
           //celula de arriba
           if (this.gen1[i - 1][j].estado) {
