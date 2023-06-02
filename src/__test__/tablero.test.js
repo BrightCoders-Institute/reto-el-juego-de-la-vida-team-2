@@ -1,4 +1,7 @@
+//const { randomBool } = require("../Utils.js");
 const { Tablero } = require("../Tablero.js");
+
+jest.mock("../Utils.js", () => {});
 
 describe("Tablero", () => {
   const tablero = new Tablero(1, 1);
@@ -17,5 +20,11 @@ describe("Tablero", () => {
       expect(tablero.gen1[0].length).toBe(tablero.columna);
     });
     //test("", () => {});
+    // test("printGen1", () => {
+    //   const tablero = new Tablero(2, 2);
+    //   tablero.#print = jest.fn();
+    //   tablero.printGen1();
+    //   expect(tablero.#print).
+    // });
   });
 });
