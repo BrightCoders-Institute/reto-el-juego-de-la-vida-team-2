@@ -11,7 +11,7 @@ describe("Random bool", () => {
   test("Debe ser devolver un valor definido", () => {
     expect(random()).toBeDefined();
   });
-  test("Debe ser un valor definido", () => {
+  test("Debe retornar un boolean", () => {
     expect(typeof random()).toBe("boolean");
   });
 });
