@@ -1,7 +1,7 @@
 //const { randomBool } = require("../Utils.js");
 const { Tablero } = require("../Tablero.js");
 
-jest.mock("../Utils.js", () => {});
+//jest.mock("../Utils.js", () => {});
 
 describe("Tablero", () => {
   const tablero = new Tablero(1, 1);
