@@ -1,13 +1,8 @@
-//const { randomBool } = require("./test/Utils");
-
-
-test( 'Asigna booleano con base en el Math Random' , () => { //Descripcion tentativa
-    const random = Math.random();
-    random > 0.5 
-        ? expect(random).toBeTruthy()
-        : expect(random).toBeFalsy(); 
+test("Revisa si se asigna true cuando random es mayor a 0.5", () => {
+  const random = Math.random();
+  const bool = random > 0.5;
+  expect(bool).toBe(random > 0.5);
 });
-
 
 /*
 test('representación de la célula' , () => {
