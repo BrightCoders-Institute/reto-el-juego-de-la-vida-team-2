@@ -82,7 +82,10 @@ Lo que se hace es correr el main.js y desde ahí escribir por consola el valor d
 
 ## Credits
 
--[Co-authored-by: Iván Caetano](IvanCa27@users.noreply.github.com) -[Co-authored-by: Miguel Cobian Meraz](mcmmiguel@users.noreply.github.com) -[Co-authored-by: Montserrat Aguilar](montsegv-2@users.noreply.github.com) -[Co-authored-by: Rassiel Mex](RassielMex@users.noreply.github.com)
+- [Co-authored-by: Iván Caetano](IvanCa27@users.noreply.github.com)
+- [Co-authored-by: Miguel Cobian Meraz](mcmmiguel@users.noreply.github.com)
+- [Co-authored-by: Montserrat Aguilar](montsegv-2@users.noreply.github.com)
+- [Co-authored-by: Rassiel Mex](RassielMex@users.noreply.github.com)
 
 ## Badges
 
