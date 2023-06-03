@@ -8,10 +8,10 @@ let fila;
 let columna;
 
 rl.question("Escribe el valor de la fila: ", (filaInput) => {
-  fila = parseInt(filaInput);
+  fila = parseInt(filaInput, 10);
   if (fila > 0) {
     rl.question("Escribe el valor de la columnas: ", (columnaInput) => {
-      columna = parseInt(columnaInput);
+      columna = parseInt(columnaInput, 10);
       if (columna > 0) {
         main();
       } else {
