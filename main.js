@@ -31,4 +31,9 @@ const main = () => {
   tablero.printGen1();
   console.log("Generacion 2: ");
   tablero.printGen2();
+
+
+
+  //For testing 
+  const a = 0; //Eliminar
 };
