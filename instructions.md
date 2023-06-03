@@ -165,7 +165,7 @@ Generación 2:
 
 ## Badges
 
-(https://app.codacy.com/gh/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/dashboard?branch=changes)
+https://app.codacy.com/gh/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/dashboard?branch=changes
 
 ## Recursos
 
