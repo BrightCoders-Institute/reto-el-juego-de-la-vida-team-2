@@ -19,12 +19,5 @@ describe("Tablero", () => {
       const tablero = new Tablero(2, 4);
       expect(tablero.gen1[0].length).toBe(tablero.columna);
     });
-    //test("", () => {});
-    // test("printGen1", () => {
-    //   const tablero = new Tablero(2, 2);
-    //   tablero.#print = jest.fn();
-    //   tablero.printGen1();
-    //   expect(tablero.#print).
-    // });
   });
 });
