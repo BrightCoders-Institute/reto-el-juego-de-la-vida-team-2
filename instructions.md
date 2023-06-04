@@ -13,8 +13,9 @@
     - [Día 5](#día-5)
   - [Requerimientos funcionales](#requerimientos-funcionales)
     - [Pistas](#pistas)
+  - [Badges](#badges)
   - [Recursos](#recursos)
-  
+
 # El Juego de la vida
 
 - **Organización.** Equipo (3-4 integrantes)
@@ -53,22 +54,26 @@ Esta actividad tiene como objetivos:
 
 ## Indicadores de cumplimiento
 
-1. **Implementación del enfoque orientado a objetos (Día 1-2):** 
+1. **Implementación del enfoque orientado a objetos (Día 1-2):**
+
    - ¿Comprendiste y aplicaste el enfoque orientado a objetos en la solución del algoritmo?
    - ¿La solución del algoritmo se implementó siguiendo el enfoque orientado a objetos?
 
-2. **Integración de ESLint y mejora de la calidad del código (Día 3):** 
+2. **Integración de ESLint y mejora de la calidad del código (Día 3):**
+
    - ¿Agregaste ESLint al proyecto?
    - ¿Resolviste los problemas identificados por el linter?
    - ¿Realizaste codificación o re-factorización del algoritmo teniendo en cuenta las observaciones del linter?
    - ¿Mejoraste la calidad del código según las recomendaciones del linter?
 
-3. **Implementación de pruebas unitarias con Jest (Día 4):** 
+3. **Implementación de pruebas unitarias con Jest (Día 4):**
+
    - ¿Agregaste pruebas unitarias utilizando Jest para el algoritmo?
    - ¿Las pruebas unitarias cubren diferentes casos y escenarios posibles?
    - ¿Las pruebas unitarias aseguran la funcionalidad correcta del algoritmo?
 
-4. **Integración de analizadores de código estático (Día 5):** 
+4. **Integración de analizadores de código estático (Día 5):**
+
    - ¿Agregaste al menos 2 analizadores de código estático, como CodeClimate, Codacy, CodeCov u otros similares?
    - ¿Resolviste los problemas identificados por los analizadores de código hasta obtener la calificación máxima?
    - ¿Optimizaste la calidad del código según las recomendaciones de los analizadores?
@@ -137,6 +142,7 @@ Debes escribir un programa que acepte una cuadrícula arbitraria de células y m
 ### Pistas
 
 La posición inicial de entrada podría ser un archivo de texto que se vea así:
+
 ```
 Generación 1:
 4 8
@@ -145,7 +151,9 @@ Generación 1:
 ...**...
 ........
 ```
+
 Y la salida podría verse así:
+
 ```
 Generación 2:
 4 8
@@ -154,6 +162,10 @@ Generación 2:
 ...**...
 ........
 ```
+
+## Badges
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c70327e18caf4347b48931aad1368dec)](https://app.codacy.com/gh/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ## Recursos
 
