@@ -1,39 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-MyOgzrv)
-![BrightCoders Logo](img/logo.png)
-
-# El Juego de la vida
-
-> [Ver instrucciones antes de iniciar](./instructions.md)
-
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you may want to cover:
-
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
-
 ## El Juego de la Vida
 
 ![BrightCoders Logo](img/logo.png)
 
 ## Table of contents
 
-- [El Juego de la vida](#el-juego-de-la-vida)
-  - [El Juego de la Vida](#el-juego-de-la-vida-1)
-  - [Table of contents](#table-of-contents)
-  - [Description](#description)
-  - [How to install and run the project](#how-to-install-and-run-the-project)
-    - [Instalar dependencias:](#instalar-dependencias)
-    - [Ejecutar programa:](#ejecutar-programa)
-    - [Ejecutar pruebas:](#ejecutar-pruebas)
-  - [How to Use the Project](#how-to-use-the-project)
-  - [Credits](#credits)
-  - [Badges](#badges)
+- [El Juego de la Vida](#el-juego-de-la-vida)
+- [Table of contents](#table-of-contents)
+- [Description](#description)
+- [How to install and run the project](#how-to-install-and-run-the-project)
+  - [Instalar dependencias:](#instalar-dependencias)
+  - [Ejecutar programa (2 formas de hacerlo):](#ejecutar-programa-2-formas-de-hacerlo)
+  - [Ejecutar pruebas:](#ejecutar-pruebas)
+- [How to Use the Project](#how-to-use-the-project)
+- [Credits](#credits)
+- [Badges](#badges)
 
 ## Description
 
@@ -60,7 +40,15 @@ You should write a program that can accept an arbitrary grid of cells, and will 
 npm install
 ```
 
-### Ejecutar programa:
+```
+npm install --save-dev nodemon
+```
+
+```
+npm install --save-dev jest
+```
+
+### Ejecutar programa (2 formas de hacerlo):
 
 ```
 npm run start
@@ -90,7 +78,3 @@ Lo que se hace es correr el main.js y desde ahí escribir por consola el valor d
 ## Badges
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c70327e18caf4347b48931aad1368dec)](https://app.codacy.com/gh/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-
-```
-
-```
