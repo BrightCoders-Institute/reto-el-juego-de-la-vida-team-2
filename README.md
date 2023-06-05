@@ -78,3 +78,5 @@ Lo que se hace es correr el main.js y desde ahí escribir por consola el valor d
 ## Badges
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c70327e18caf4347b48931aad1368dec)](https://app.codacy.com/gh/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+[![CodeCov](https://github.com/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/BrightCoders-Institute/reto-el-juego-de-la-vida-team-2/actions/workflows/blank.yml)
